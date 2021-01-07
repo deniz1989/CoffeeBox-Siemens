@@ -1,0 +1,13 @@
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\bin\Debug\netcoreapp3.1\MainConsoleApp.exe
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\bin\Debug\netcoreapp3.1\MainConsoleApp.deps.json
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\bin\Debug\netcoreapp3.1\MainConsoleApp.runtimeconfig.json
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\bin\Debug\netcoreapp3.1\MainConsoleApp.runtimeconfig.dev.json
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\bin\Debug\netcoreapp3.1\MainConsoleApp.dll
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\bin\Debug\netcoreapp3.1\MainConsoleApp.pdb
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\obj\Debug\netcoreapp3.1\MainConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\obj\Debug\netcoreapp3.1\MainConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\obj\Debug\netcoreapp3.1\MainConsoleApp.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\obj\Debug\netcoreapp3.1\MainConsoleApp.dll
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\obj\Debug\netcoreapp3.1\MainConsoleApp.pdb
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\obj\Debug\netcoreapp3.1\MainConsoleApp.genruntimeconfig.cache
+C:\Users\Deniz\source\repos\CoffeeBox\MainConsoleApp\obj\Debug\netcoreapp3.1\MainConsoleApp.csprojAssemblyReference.cache
